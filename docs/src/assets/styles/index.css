@@ -3,4 +3,4 @@
 @import 'antdv-next/style/reset.css' layer(reset);
 @import './layout/index.css' layer(layout);
 @import './markdown/index.css' layer(markdown);
-@import './common.css' layer(common);
+@import './common.css';
